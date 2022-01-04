@@ -1,6 +1,6 @@
-# sionnach.solutions
+# díon.ie
 
-Website for Sionnach Solutions / Sionnach Buí
+Website for díon.ie
 
 ## Run dev build & start dev server
 
